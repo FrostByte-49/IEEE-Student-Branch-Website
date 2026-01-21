@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="google-site-verification" content="f6EfV3bdM6jw2o2_Qa8hbZj1GlfxEuBxUeRctEHb34U" />
+
+    <!-- SEO-Optimized Meta Tags -->
+    <meta name="description" content="IEEE Student Branch at VPPCOE & VA - Engaging Students in Technical Innovation and Professional Development">
+    <meta name="keywords" content="IEEE PVPPCOE, IEEE VPPCOEVA, IEEE Mumbai Student Branch, IEEE Engineering College Mumbai, Vasantdada Patil Pratishthan College of Engineering IEEE, IEEE Student Branch Mumbai, IEEE Computer Engineering, IEEE Information Technology, IEEE Electronics Engineering, IEEE technical workshops Mumbai, IEEE student activities, engineering college IEEE chapter, private engineering college Mumbai, AICTE approved engineering college, NAAC accredited engineering college, NBA accredited programs, IEEE events Mumbai, IEEE seminars workshops hackathons, engineering innovation Mumbai">
+    <meta name="author" content="IEEE Student Branch VPPCOE & VA">
+
+    <!-- Theme Color for Mobile -->
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="/assets/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="IEEE VPPCOE" />
+    <link rel="manifest" href="/assets/favicon/site.webmanifest" />
+
+    <!-- Inter Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <title>IEEE Student Branch - PVPPCOE</title>
+    
+  </head>
+  <body class="bg-white text-black">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    
+    <!-- Theme Initialization -->
+    <script>
+      (function() {
+        try {
+          const saved = localStorage.getItem('sentra-dark-mode');
+          const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          
+          // Clear Any Existing Class First
+          document.documentElement.classList.remove('dark');
+          
+          // Add Dark Class
+          if (saved === 'true' || (saved === null && prefersDark)) {
+            document.documentElement.classList.add('dark');
+          }
+        } catch (e) {
+          console.error('Theme init error:', e);
+        }
+      })();
+    </script>
+  </body>
+</html>
