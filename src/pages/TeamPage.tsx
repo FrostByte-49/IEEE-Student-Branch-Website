@@ -166,7 +166,7 @@ const coreTeam: TeamMember[] = [
     name: "Pranav Khalate",
     role: "Infra Head",
     department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017903/Pranav__ndvoe0.jpg",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769022826/Pranav__boi6iv.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
