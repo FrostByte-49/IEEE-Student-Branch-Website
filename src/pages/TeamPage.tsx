@@ -56,7 +56,7 @@ const coreTeam: TeamMember[] = [
     name: "Sairaj Sakpal",
     role: "Chairperson",
     department: "Second Year, Information Technology",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017650/Sairaj__a4vtn9.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -66,7 +66,7 @@ const coreTeam: TeamMember[] = [
     name: "Shraddha Alibade",
     role: "Vice Chairperson",
     department: "Second Year, Information Technology",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017649/Shraddha__vycaqb.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -76,7 +76,7 @@ const coreTeam: TeamMember[] = [
     name: "Shubham",
     role: "General Secretary",
     department: "Second Year, Mechatronics",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017649/Shubham__wchfci.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -86,7 +86,7 @@ const coreTeam: TeamMember[] = [
     name: "Maithili Talawadekar",
     role: "Treasurer",
     department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017648/Maithili__rsurcb.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -96,7 +96,7 @@ const coreTeam: TeamMember[] = [
     name: "Aditya Ambure",
     role: "Documentation Head",
     department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017647/Aditya__uhz8ym.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -106,7 +106,7 @@ const coreTeam: TeamMember[] = [
     name: "Ayush Singh",
     role: "Technical Head",
     department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017648/Ayush__hugirn.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -116,7 +116,7 @@ const coreTeam: TeamMember[] = [
     name: "Suhani",
     role: "Creative Head",
     department: "Second Year, Mechatronics",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017649/Suhani__ayg7du.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -126,7 +126,7 @@ const coreTeam: TeamMember[] = [
     name: "Saima",
     role: "Publicity Head",
     department: "Second Year, Information Technology",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017649/Saima__qpcrbr.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -136,7 +136,7 @@ const coreTeam: TeamMember[] = [
     name: "Ankita Nair",
     role: "PR Head",
     department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017647/Ankita__pikqw2.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -146,7 +146,7 @@ const coreTeam: TeamMember[] = [
     name: "Akif Khan",
     role: "Social Media Head",
     department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017648/Akif__rczpgb.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -156,7 +156,7 @@ const coreTeam: TeamMember[] = [
     name: "Krishna Choudhary",
     role: "Web Master",
     department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017648/Krishna__mjexj2.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
@@ -166,7 +166,7 @@ const coreTeam: TeamMember[] = [
     name: "Pranav Khalate",
     role: "Infra Head",
     department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1768820203/Pranav__kfanak.jpg",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017903/Pranav__ndvoe0.jpg",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
     email: "vu1f2425054@pvppcoe.ac.in"
