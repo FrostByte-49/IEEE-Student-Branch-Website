@@ -20,33 +20,33 @@ interface TeamMember {
 const mentors: TeamMember[] = [
   {
     id: 1,
-    name: "Pranav K",
-    role: "Student",
-    department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    name: "Dr. Suvarna Bhise",
+    role: "Faculty Mentor",
+    department: "",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769058481/Suvarna_Ma_am__fxn4fy.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     email: "vu1f2425054@pvppcoe.ac.in",
-    description: "15+ years of experience in AI & ML Research. Published 50+ research papers."
+    description: ""
   },
   {
     id: 2,
-    name: "Pranav K",
-    role: "Student",
-    department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    name: "Dr. Vedika Avhad",
+    role: "Faculty Mentor",
+    department: "",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769058250/Vedika_Ma_am__fkp8t9.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     email: "vu1f2425054@pvppcoe.ac.in",
-    description: "Expert in Cloud Computing & Cybersecurity. Industry consultant for major tech firms."
+    description: ""
   },
   {
     id: 3,
-    name: "Krishna Choudhary",
-    role: "Student",
-    department: "Second Year, Computer Engineering",
-    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp",
+    name: "Dr. Alam Shaikh",
+    role: "Principal",
+    department: "",
+    image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769058759/Principal__czluk6.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     email: "vu1f2425054@pvppcoe.ac.in",
-    description: "Former Google engineer. Startup advisor with 10+ successful exits."
+    description: ""
   }
 ];
 
@@ -73,7 +73,7 @@ const coreTeam: TeamMember[] = [
   },
   {
     id: 3,
-    name: "Shubham",
+    name: "Shubham Pramanik",
     role: "General Secretary",
     department: "Second Year, Mechatronics",
     image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017649/Shubham__wchfci.webp",
@@ -85,7 +85,7 @@ const coreTeam: TeamMember[] = [
     id: 4,
     name: "Maithili Talawadekar",
     role: "Treasurer",
-    department: "Second Year, Computer Engineering",
+    department: "Second Year, ECS",
     image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017648/Maithili__rsurcb.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
@@ -95,7 +95,7 @@ const coreTeam: TeamMember[] = [
     id: 5,
     name: "Aditya Ambure",
     role: "Documentation Head",
-    department: "Second Year, Computer Engineering",
+    department: "Second Year, Information Technology",
     image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017647/Aditya__uhz8ym.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
@@ -113,7 +113,7 @@ const coreTeam: TeamMember[] = [
   },
   {
     id: 7,
-    name: "Suhani",
+    name: "Suhani Yenolla",
     role: "Creative Head",
     department: "Second Year, Mechatronics",
     image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017649/Suhani__ayg7du.webp",
@@ -123,7 +123,7 @@ const coreTeam: TeamMember[] = [
   },
   {
     id: 8,
-    name: "Saima",
+    name: "Saima Qadri",
     role: "Publicity Head",
     department: "Second Year, Information Technology",
     image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017649/Saima__qpcrbr.webp",
@@ -135,7 +135,7 @@ const coreTeam: TeamMember[] = [
     id: 9,
     name: "Ankita Nair",
     role: "PR Head",
-    department: "Second Year, Computer Engineering",
+    department: "Second Year, ECS",
     image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017647/Ankita__pikqw2.webp",
     linkedin: "https://linkedin.com/in/pranav-kh",
     github: "https://github.com/FrostByte-49",
@@ -143,7 +143,7 @@ const coreTeam: TeamMember[] = [
   },
   {
     id: 10,
-    name: "Akif Khan",
+    name: "Aqeef Khan",
     role: "Social Media Head",
     department: "Second Year, Computer Engineering",
     image: "https://res.cloudinary.com/dhn92qb61/image/upload/v1769017648/Akif__rczpgb.webp",
